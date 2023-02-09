@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dogruyolomerfurkan&include_all_commits=true&count_private=true&show_icons=true&line_height=20" width="450"/>
 </a>
 
-<p align="center">
+<p>
     <a href="https://github.com/dogruyolomerfurkan">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dogruyolomerfurkan&show_icons=true&locale=en&layout=compact" width="370" alt="Ömer Furkan Doğruyol"/>
     </a>
