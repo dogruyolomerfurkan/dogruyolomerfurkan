@@ -6,6 +6,6 @@
 
 <p>
     <a href="https://github.com/dogruyolomerfurkan">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dogruyolomerfurkan&show_icons=true&locale=en&layout=compact" width="370" alt="Ömer Furkan Doğruyol"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dogruyolomerfurkan&show_icons=true&locale=en&layout=compact&theme=transparent" width="370" alt="Ömer Furkan Doğruyol"/>
     </a>
 </p>
