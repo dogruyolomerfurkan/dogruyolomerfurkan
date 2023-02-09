@@ -5,6 +5,8 @@
 </a>
 <p>
 <a href="https://github.com/dogruyolomerfurkan">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dogruyolomerfurkan&show_icons=true&locale=en&layout=compact&theme=transparent&layout=compact" width="450" alt="Ömer Furkan Doğruyol"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dogruyolomerfurkan&show_icons=true&locale=en&layout=compact&theme=transparent" width="450" alt="Ömer Furkan Doğruyol"/>
     </a>
 </p>
+
+<a href="https://github.com/dogruyolomerfurkan/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dogruyolomerfurkan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ömer's github stats" /></a> | <a href="https://github.com/dogruyolomerfurkan/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogruyolomerfurkan&layout=compact&theme=buefy&hide_border=true" /></a> 
