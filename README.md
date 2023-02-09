@@ -5,7 +5,7 @@
 </a>
 
 <p align="center">
-    <a href="https://github.com/dogruyolomerfurkan"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilaracelikcivi&hide_border=true" width="520" alt="Ömer Furkan Doğruyol"/></a>
+    <a href="https://github.com/dogruyolomerfurkan"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dogruyolomerfurkan&hide_border=true" width="520" alt="Ömer Furkan Doğruyol"/></a>
     <a href="https://github.com/dogruyolomerfurkan">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dogruyolomerfurkan&show_icons=true&locale=en&layout=compact" width="370" alt="Ömer Furkan Doğruyol"/>
     </a>
