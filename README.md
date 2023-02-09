@@ -5,6 +5,4 @@
 #### Top Repositories
 
 
-<a href="https://github.com/dogruyolomerfurkan/Microservice.Commerce.Inventory.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dogruyolomerfurkan&repo=github-readme-stats&theme=transparent" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dogruyolomerfurkan&repo=github-readme-stats)](https://github.com/dogruyolomerfurkan/AggregateTypesJSON.git)
