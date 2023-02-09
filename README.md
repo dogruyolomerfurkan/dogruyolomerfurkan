@@ -4,6 +4,6 @@
 
 #### Top Repositories
 
-<a href="https://github.com/dogruyolomerfurkan/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dogruyolomerfurkan&repo=AggregateTypesJSON&theme=buefy" />
+<a href="https://github.com/dogruyolomerfurkan/AggregateTypesJSON.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dogruyolomerfurkan&repo=AggregateTypesJSON&theme=transparent" />
 </a>
