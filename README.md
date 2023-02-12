@@ -7,3 +7,6 @@
 <a href="https://github.com/dogruyolomerfurkan/AggregateTypesJSON.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dogruyolomerfurkan&repo=AggregateTypesJSON&theme=transparent" />
 </a>
+<a href="https://github.com/dogruyolomerfurkan/Concise.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dogruyolomerfurkan&repo=Concise&theme=transparent" />
+</a>
